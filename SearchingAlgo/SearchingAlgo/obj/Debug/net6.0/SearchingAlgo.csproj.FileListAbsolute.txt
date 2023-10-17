@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\AzMB101\SearchingAlgo\SearchingAlgo\bin\Debug\net6.0\SearchingAlgo.exe
+C:\Users\Ülvi\Desktop\AzMB101\SearchingAlgo\SearchingAlgo\bin\Debug\net6.0\SearchingAlgo.deps.json
+C:\Users\Ülvi\Desktop\AzMB101\SearchingAlgo\SearchingAlgo\bin\Debug\net6.0\SearchingAlgo.runtimeconfig.json
+C:\Users\Ülvi\Desktop\AzMB101\SearchingAlgo\SearchingAlgo\bin\Debug\net6.0\SearchingAlgo.dll
+C:\Users\Ülvi\Desktop\AzMB101\SearchingAlgo\SearchingAlgo\bin\Debug\net6.0\SearchingAlgo.pdb
+C:\Users\Ülvi\Desktop\AzMB101\SearchingAlgo\SearchingAlgo\obj\Debug\net6.0\SearchingAlgo.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\AzMB101\SearchingAlgo\SearchingAlgo\obj\Debug\net6.0\SearchingAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\AzMB101\SearchingAlgo\SearchingAlgo\obj\Debug\net6.0\SearchingAlgo.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\SearchingAlgo\SearchingAlgo\obj\Debug\net6.0\SearchingAlgo.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\AzMB101\SearchingAlgo\SearchingAlgo\obj\Debug\net6.0\SearchingAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\SearchingAlgo\SearchingAlgo\obj\Debug\net6.0\SearchingAlgo.dll
+C:\Users\Ülvi\Desktop\AzMB101\SearchingAlgo\SearchingAlgo\obj\Debug\net6.0\refint\SearchingAlgo.dll
+C:\Users\Ülvi\Desktop\AzMB101\SearchingAlgo\SearchingAlgo\obj\Debug\net6.0\SearchingAlgo.pdb
+C:\Users\Ülvi\Desktop\AzMB101\SearchingAlgo\SearchingAlgo\obj\Debug\net6.0\SearchingAlgo.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\AzMB101\SearchingAlgo\SearchingAlgo\obj\Debug\net6.0\ref\SearchingAlgo.dll

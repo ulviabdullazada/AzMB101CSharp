@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\AzMB101\AzMB101CSharpIntro\AzMB101CSharpIntro\bin\Debug\net6.0\AzMB101CSharpIntro.exe
+C:\Users\Ülvi\Desktop\AzMB101\AzMB101CSharpIntro\AzMB101CSharpIntro\bin\Debug\net6.0\AzMB101CSharpIntro.deps.json
+C:\Users\Ülvi\Desktop\AzMB101\AzMB101CSharpIntro\AzMB101CSharpIntro\bin\Debug\net6.0\AzMB101CSharpIntro.runtimeconfig.json
+C:\Users\Ülvi\Desktop\AzMB101\AzMB101CSharpIntro\AzMB101CSharpIntro\bin\Debug\net6.0\AzMB101CSharpIntro.dll
+C:\Users\Ülvi\Desktop\AzMB101\AzMB101CSharpIntro\AzMB101CSharpIntro\bin\Debug\net6.0\AzMB101CSharpIntro.pdb
+C:\Users\Ülvi\Desktop\AzMB101\AzMB101CSharpIntro\AzMB101CSharpIntro\obj\Debug\net6.0\AzMB101CSharpIntro.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\AzMB101\AzMB101CSharpIntro\AzMB101CSharpIntro\obj\Debug\net6.0\AzMB101CSharpIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\AzMB101\AzMB101CSharpIntro\AzMB101CSharpIntro\obj\Debug\net6.0\AzMB101CSharpIntro.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\AzMB101CSharpIntro\AzMB101CSharpIntro\obj\Debug\net6.0\AzMB101CSharpIntro.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\AzMB101\AzMB101CSharpIntro\AzMB101CSharpIntro\obj\Debug\net6.0\AzMB101CSharpIntro.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\AzMB101CSharpIntro\AzMB101CSharpIntro\obj\Debug\net6.0\AzMB101CSharpIntro.dll
+C:\Users\Ülvi\Desktop\AzMB101\AzMB101CSharpIntro\AzMB101CSharpIntro\obj\Debug\net6.0\refint\AzMB101CSharpIntro.dll
+C:\Users\Ülvi\Desktop\AzMB101\AzMB101CSharpIntro\AzMB101CSharpIntro\obj\Debug\net6.0\AzMB101CSharpIntro.pdb
+C:\Users\Ülvi\Desktop\AzMB101\AzMB101CSharpIntro\AzMB101CSharpIntro\obj\Debug\net6.0\AzMB101CSharpIntro.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\AzMB101\AzMB101CSharpIntro\AzMB101CSharpIntro\obj\Debug\net6.0\ref\AzMB101CSharpIntro.dll

@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\AzMB101\Methods\Methods\bin\Debug\net6.0\Methods.exe
+C:\Users\Ülvi\Desktop\AzMB101\Methods\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\Users\Ülvi\Desktop\AzMB101\Methods\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\Users\Ülvi\Desktop\AzMB101\Methods\Methods\bin\Debug\net6.0\Methods.dll
+C:\Users\Ülvi\Desktop\AzMB101\Methods\Methods\bin\Debug\net6.0\Methods.pdb
+C:\Users\Ülvi\Desktop\AzMB101\Methods\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\AzMB101\Methods\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\AzMB101\Methods\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\Methods\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\AzMB101\Methods\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\Methods\Methods\obj\Debug\net6.0\Methods.dll
+C:\Users\Ülvi\Desktop\AzMB101\Methods\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\Users\Ülvi\Desktop\AzMB101\Methods\Methods\obj\Debug\net6.0\Methods.pdb
+C:\Users\Ülvi\Desktop\AzMB101\Methods\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\AzMB101\Methods\Methods\obj\Debug\net6.0\ref\Methods.dll

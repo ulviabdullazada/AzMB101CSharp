@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\AzMB101\DataTypes\DataTypes\bin\Debug\net6.0\DataTypes.exe
+C:\Users\Ülvi\Desktop\AzMB101\DataTypes\DataTypes\bin\Debug\net6.0\DataTypes.deps.json
+C:\Users\Ülvi\Desktop\AzMB101\DataTypes\DataTypes\bin\Debug\net6.0\DataTypes.runtimeconfig.json
+C:\Users\Ülvi\Desktop\AzMB101\DataTypes\DataTypes\bin\Debug\net6.0\DataTypes.dll
+C:\Users\Ülvi\Desktop\AzMB101\DataTypes\DataTypes\bin\Debug\net6.0\DataTypes.pdb
+C:\Users\Ülvi\Desktop\AzMB101\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\AzMB101\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\AzMB101\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\AzMB101\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.dll
+C:\Users\Ülvi\Desktop\AzMB101\DataTypes\DataTypes\obj\Debug\net6.0\refint\DataTypes.dll
+C:\Users\Ülvi\Desktop\AzMB101\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.pdb
+C:\Users\Ülvi\Desktop\AzMB101\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\AzMB101\DataTypes\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll

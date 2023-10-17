@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\AzMB101\Loops\Loops\bin\Debug\net6.0\Loops.exe
+C:\Users\Ülvi\Desktop\AzMB101\Loops\Loops\bin\Debug\net6.0\Loops.deps.json
+C:\Users\Ülvi\Desktop\AzMB101\Loops\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+C:\Users\Ülvi\Desktop\AzMB101\Loops\Loops\bin\Debug\net6.0\Loops.dll
+C:\Users\Ülvi\Desktop\AzMB101\Loops\Loops\bin\Debug\net6.0\Loops.pdb
+C:\Users\Ülvi\Desktop\AzMB101\Loops\Loops\obj\Debug\net6.0\Loops.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\AzMB101\Loops\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\AzMB101\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\AzMB101\Loops\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\Loops\Loops\obj\Debug\net6.0\Loops.dll
+C:\Users\Ülvi\Desktop\AzMB101\Loops\Loops\obj\Debug\net6.0\refint\Loops.dll
+C:\Users\Ülvi\Desktop\AzMB101\Loops\Loops\obj\Debug\net6.0\Loops.pdb
+C:\Users\Ülvi\Desktop\AzMB101\Loops\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\AzMB101\Loops\Loops\obj\Debug\net6.0\ref\Loops.dll
