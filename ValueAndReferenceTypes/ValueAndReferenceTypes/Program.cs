@@ -24,21 +24,28 @@
             SwapMinAndMax(ref arr);
 
             //SwapMinAndMax(new int[] { 1, 2, 3, 4, 5 });
-            foreach (int i in arr)
-            {
-                Console.WriteLine(i);
-            }
+            //foreach (int i in arr)
+            //{
+            //    Console.WriteLine(i);
+            //}
             //int.TryParse("123", out int result);
             //Console.WriteLine(result);
             //int b = 0;
             //Console.WriteLine(a);
+            //int[] nums = { 1, 2, 3 };
+            //ChangeArrSize(ref nums, 10);
+            Negative(Convert.ToInt32(Console.ReadLine()), out int result);
+            Console.WriteLine(result);
+            //Console.WriteLine(nums.Length);
+        }
 
-
-
-
-            int[] nums = { 1, 2, 3 };
-            ChangeArrSize(ref nums, 10);
-            Console.WriteLine(nums.Length);
+        static void Negative(int num, out int result)
+        {
+            result = num;
+            if (num > 0) 
+            {
+                result = -num;
+            }
         }
 
         static void ChangeArrSize(ref int[] arr, int newSize)
