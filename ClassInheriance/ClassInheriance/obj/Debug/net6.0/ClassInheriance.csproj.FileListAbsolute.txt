@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\AzMB101\ClassInheriance\ClassInheriance\bin\Debug\net6.0\ClassInheriance.exe
+C:\Users\Ülvi\Desktop\AzMB101\ClassInheriance\ClassInheriance\bin\Debug\net6.0\ClassInheriance.deps.json
+C:\Users\Ülvi\Desktop\AzMB101\ClassInheriance\ClassInheriance\bin\Debug\net6.0\ClassInheriance.runtimeconfig.json
+C:\Users\Ülvi\Desktop\AzMB101\ClassInheriance\ClassInheriance\bin\Debug\net6.0\ClassInheriance.dll
+C:\Users\Ülvi\Desktop\AzMB101\ClassInheriance\ClassInheriance\bin\Debug\net6.0\ClassInheriance.pdb
+C:\Users\Ülvi\Desktop\AzMB101\ClassInheriance\ClassInheriance\obj\Debug\net6.0\ClassInheriance.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\AzMB101\ClassInheriance\ClassInheriance\obj\Debug\net6.0\ClassInheriance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\AzMB101\ClassInheriance\ClassInheriance\obj\Debug\net6.0\ClassInheriance.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\ClassInheriance\ClassInheriance\obj\Debug\net6.0\ClassInheriance.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\AzMB101\ClassInheriance\ClassInheriance\obj\Debug\net6.0\ClassInheriance.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\ClassInheriance\ClassInheriance\obj\Debug\net6.0\ClassInheriance.dll
+C:\Users\Ülvi\Desktop\AzMB101\ClassInheriance\ClassInheriance\obj\Debug\net6.0\refint\ClassInheriance.dll
+C:\Users\Ülvi\Desktop\AzMB101\ClassInheriance\ClassInheriance\obj\Debug\net6.0\ClassInheriance.pdb
+C:\Users\Ülvi\Desktop\AzMB101\ClassInheriance\ClassInheriance\obj\Debug\net6.0\ClassInheriance.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\AzMB101\ClassInheriance\ClassInheriance\obj\Debug\net6.0\ref\ClassInheriance.dll
