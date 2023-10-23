@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\AzMB101\AccessModifiers\AccessModifiers\bin\Debug\net6.0\AccessModifiers.exe
+C:\Users\Ülvi\Desktop\AzMB101\AccessModifiers\AccessModifiers\bin\Debug\net6.0\AccessModifiers.deps.json
+C:\Users\Ülvi\Desktop\AzMB101\AccessModifiers\AccessModifiers\bin\Debug\net6.0\AccessModifiers.runtimeconfig.json
+C:\Users\Ülvi\Desktop\AzMB101\AccessModifiers\AccessModifiers\bin\Debug\net6.0\AccessModifiers.dll
+C:\Users\Ülvi\Desktop\AzMB101\AccessModifiers\AccessModifiers\bin\Debug\net6.0\AccessModifiers.pdb
+C:\Users\Ülvi\Desktop\AzMB101\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\AzMB101\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\AzMB101\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\AzMB101\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.dll
+C:\Users\Ülvi\Desktop\AzMB101\AccessModifiers\AccessModifiers\obj\Debug\net6.0\refint\AccessModifiers.dll
+C:\Users\Ülvi\Desktop\AzMB101\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.pdb
+C:\Users\Ülvi\Desktop\AzMB101\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\AzMB101\AccessModifiers\AccessModifiers\obj\Debug\net6.0\ref\AccessModifiers.dll
