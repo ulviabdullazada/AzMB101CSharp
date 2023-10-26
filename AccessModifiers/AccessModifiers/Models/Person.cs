@@ -4,6 +4,28 @@ namespace AccessModifiers.Models
 {
     public class Person
     {
+        private string _password;
+
+        public string Password
+        {
+            get { return _password; }
+            set { 
+                if (HasDigit(value)) {
+                    _password = value;
+                }
+            }
+        }
+        private bool HasDigit(string str)
+        {
+            foreach (char c in str)
+            {
+                if (char.IsDigit(c)) 
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
         //private string _name;
         //private string _surname;
         //private byte _age;
@@ -90,18 +112,18 @@ namespace AccessModifiers.Models
         //        Console.WriteLine("Olmaz!");
         //    }
         //}
-        public byte GetAge() => _age;
-        public void SetAge(byte age)
-        {
-            if (age <= 160)
-            {
-                _age = age;
-            }
-            else
-            {
-                Console.WriteLine("Olmaz!");
-            }
-        }
+        //public byte GetAge() => _age;
+        //public void SetAge(byte age)
+        //{
+        //    if (age <= 160)
+        //    {
+        //        _age = age;
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("Olmaz!");
+        //    }
+        //}
 
         //public string GetFullInfo()
         //{
