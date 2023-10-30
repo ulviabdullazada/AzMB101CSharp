@@ -1,5 +1,5 @@
 ﻿using Models.Entities;
-using Models.Test;
+using t = Models.Test;
 
 namespace AccessModifiers2;
 internal class Program
@@ -13,7 +13,7 @@ internal class Program
         //z.Name = "A";
         //z.Surname = "B";
         //Student s = new Student();
-        
+        t.Adam a = new t.Adam();
     }
 }
 //namespace AccessModifiers2

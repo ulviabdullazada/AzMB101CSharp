@@ -6,8 +6,8 @@ namespace AccessModifiers
     {
         static void Main(string[] args)
         {
-            Person r = new Person(true);
-            Console.WriteLine(r.IsMale);
+            Person r = new Person();
+            Console.WriteLine((int)'a');
             //r.SetName("Royal");
             //r.SetSurname("Asgarov");
             //r.SetAge(12);
