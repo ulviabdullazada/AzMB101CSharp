@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiers2", "AccessModifiers2.csproj", "{019E1E61-FDC1-49C6-8DF6-AC4EF1AB528C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "..\Models\Models.csproj", "{7C59EB72-31D8-478B-B671-7B03D5E23838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{019E1E61-FDC1-49C6-8DF6-AC4EF1AB528C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{019E1E61-FDC1-49C6-8DF6-AC4EF1AB528C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019E1E61-FDC1-49C6-8DF6-AC4EF1AB528C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{019E1E61-FDC1-49C6-8DF6-AC4EF1AB528C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C59EB72-31D8-478B-B671-7B03D5E23838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C59EB72-31D8-478B-B671-7B03D5E23838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C59EB72-31D8-478B-B671-7B03D5E23838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C59EB72-31D8-478B-B671-7B03D5E23838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84B10B67-4BBB-4FD9-B796-035CD4FD012C}
+	EndGlobalSection
+EndGlobal
