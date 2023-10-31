@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Static\bin\Debug\net6.0\Static.exe
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Static\bin\Debug\net6.0\Static.deps.json
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Static\bin\Debug\net6.0\Static.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Static\bin\Debug\net6.0\Static.dll
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Static\bin\Debug\net6.0\Static.pdb
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Static\obj\Debug\net6.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Static\obj\Debug\net6.0\Static.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Static\obj\Debug\net6.0\Static.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Static\obj\Debug\net6.0\Static.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Static\obj\Debug\net6.0\Static.dll
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Static\obj\Debug\net6.0\refint\Static.dll
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Static\obj\Debug\net6.0\Static.pdb
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Static\obj\Debug\net6.0\Static.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Static\obj\Debug\net6.0\ref\Static.dll
