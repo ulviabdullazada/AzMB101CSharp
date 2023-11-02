@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ülvi\\Desktop\\AzMB101\\Static\\Static.csproj",
-      "projectName": "Static",
-      "projectPath": "C:\\Users\\Ülvi\\Desktop\\AzMB101\\Static\\Static.csproj",
+      "projectUniqueName": "C:\\Users\\Ülvi\\Desktop\\AzMB101\\Exceptions\\Exceptions\\Exceptions.csproj",
+      "projectName": "Exceptions",
+      "projectPath": "C:\\Users\\Ülvi\\Desktop\\AzMB101\\Exceptions\\Exceptions\\Exceptions.csproj",
       "packagesPath": "C:\\Users\\Ülvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ülvi\\Desktop\\AzMB101\\Static\\obj\\",
+      "outputPath": "C:\\Users\\Ülvi\\Desktop\\AzMB101\\Exceptions\\Exceptions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ülvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
