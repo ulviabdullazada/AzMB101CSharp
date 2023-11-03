@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Birinci novbe\\.nuget\\packages\\": {}
+    "C:\\Users\\Ülvi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\Static\\Static.csproj",
+      "projectUniqueName": "C:\\Users\\Ülvi\\Desktop\\AzMB101\\Static\\Static.csproj",
       "projectName": "Static",
-      "projectPath": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\Static\\Static.csproj",
-      "packagesPath": "C:\\Users\\Birinci novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\Static\\obj\\",
+      "projectPath": "C:\\Users\\Ülvi\\Desktop\\AzMB101\\Static\\Static.csproj",
+      "packagesPath": "C:\\Users\\Ülvi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ülvi\\Desktop\\AzMB101\\Static\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Birinci novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ülvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\AzMB101\Exceptions\Reflections\bin\Debug\net6.0\Reflections.exe
+C:\Users\Ülvi\Desktop\AzMB101\Exceptions\Reflections\bin\Debug\net6.0\Reflections.deps.json
+C:\Users\Ülvi\Desktop\AzMB101\Exceptions\Reflections\bin\Debug\net6.0\Reflections.runtimeconfig.json
+C:\Users\Ülvi\Desktop\AzMB101\Exceptions\Reflections\bin\Debug\net6.0\Reflections.dll
+C:\Users\Ülvi\Desktop\AzMB101\Exceptions\Reflections\bin\Debug\net6.0\Reflections.pdb
+C:\Users\Ülvi\Desktop\AzMB101\Exceptions\Reflections\obj\Debug\net6.0\Reflections.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\AzMB101\Exceptions\Reflections\obj\Debug\net6.0\Reflections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\AzMB101\Exceptions\Reflections\obj\Debug\net6.0\Reflections.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\Exceptions\Reflections\obj\Debug\net6.0\Reflections.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\AzMB101\Exceptions\Reflections\obj\Debug\net6.0\Reflections.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\AzMB101\Exceptions\Reflections\obj\Debug\net6.0\Reflections.dll
+C:\Users\Ülvi\Desktop\AzMB101\Exceptions\Reflections\obj\Debug\net6.0\refint\Reflections.dll
+C:\Users\Ülvi\Desktop\AzMB101\Exceptions\Reflections\obj\Debug\net6.0\Reflections.pdb
+C:\Users\Ülvi\Desktop\AzMB101\Exceptions\Reflections\obj\Debug\net6.0\Reflections.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\AzMB101\Exceptions\Reflections\obj\Debug\net6.0\ref\Reflections.dll
