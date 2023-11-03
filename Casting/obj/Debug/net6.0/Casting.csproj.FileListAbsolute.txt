@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\source\repos\Casting\bin\Debug\net6.0\Casting.exe
+C:\Users\Birinci novbe\source\repos\Casting\bin\Debug\net6.0\Casting.deps.json
+C:\Users\Birinci novbe\source\repos\Casting\bin\Debug\net6.0\Casting.runtimeconfig.json
+C:\Users\Birinci novbe\source\repos\Casting\bin\Debug\net6.0\Casting.dll
+C:\Users\Birinci novbe\source\repos\Casting\bin\Debug\net6.0\Casting.pdb
+C:\Users\Birinci novbe\source\repos\Casting\obj\Debug\net6.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\source\repos\Casting\obj\Debug\net6.0\Casting.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\source\repos\Casting\obj\Debug\net6.0\Casting.AssemblyInfo.cs
+C:\Users\Birinci novbe\source\repos\Casting\obj\Debug\net6.0\Casting.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\source\repos\Casting\obj\Debug\net6.0\Casting.dll
+C:\Users\Birinci novbe\source\repos\Casting\obj\Debug\net6.0\refint\Casting.dll
+C:\Users\Birinci novbe\source\repos\Casting\obj\Debug\net6.0\Casting.pdb
+C:\Users\Birinci novbe\source\repos\Casting\obj\Debug\net6.0\Casting.genruntimeconfig.cache
+C:\Users\Birinci novbe\source\repos\Casting\obj\Debug\net6.0\ref\Casting.dll
