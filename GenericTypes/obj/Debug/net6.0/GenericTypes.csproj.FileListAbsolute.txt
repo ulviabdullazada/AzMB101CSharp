@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\GenericTypes\bin\Debug\net6.0\GenericTypes.exe
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\GenericTypes\bin\Debug\net6.0\GenericTypes.deps.json
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\GenericTypes\bin\Debug\net6.0\GenericTypes.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\GenericTypes\bin\Debug\net6.0\GenericTypes.dll
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\GenericTypes\bin\Debug\net6.0\GenericTypes.pdb
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\GenericTypes\obj\Debug\net6.0\GenericTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\GenericTypes\obj\Debug\net6.0\GenericTypes.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\GenericTypes\obj\Debug\net6.0\GenericTypes.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\GenericTypes\obj\Debug\net6.0\GenericTypes.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\GenericTypes\obj\Debug\net6.0\GenericTypes.dll
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\GenericTypes\obj\Debug\net6.0\refint\GenericTypes.dll
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\GenericTypes\obj\Debug\net6.0\GenericTypes.pdb
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\GenericTypes\obj\Debug\net6.0\GenericTypes.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\GenericTypes\obj\Debug\net6.0\ref\GenericTypes.dll
