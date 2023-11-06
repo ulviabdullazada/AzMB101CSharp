@@ -11,26 +11,46 @@ namespace Delegates
     {
         static void Main(string[] args)
         {
-            int[] nums = { 1, 2, 3, 4, 6 };
+            List<Person> people = new List<Person>();
+            people.Add(new Person { Name = "Gamar", Surname = "Umbayeva", Age = 20 });
+            people.Add(new Person { Name = "Laman", Surname = "Zeylanova", Age = 20 });
+            people.Add(new Person { Name = "Isa", Surname = "Aliyev", Age = 17 });
+            people.Add(new Person { Name = "Gunash", Surname = "Mammadli", Age = 17 });
+            people.Add(new Person { Name = "Fuad", Surname = "Khalilov", Age = 21 });
 
-            List<int> list = new List<int>(nums);
-            list.Add(123);
-            list.Add(12);
-            list.Add(99);
-            list.Add(127);
-            list.Add(12);
-            //list.FindAll(num => true);
-            foreach (var item in list)
-            {
-                Console.WriteLine(item);
-            }
-            Console.WriteLine("----------------");
-            Console.WriteLine(list.RemoveAll(num => num > 12));
-            Console.WriteLine("----------------");
-            foreach (var item in list)
-            {
-                Console.WriteLine(item);
-            }
+            //1. var result = people.FindAll(p => p.Name.Length == 4);
+            //2. var result = people.FindAll(p => {
+            //    return p.Surname.EndsWith("ov") || p.Surname.EndsWith("ova");
+            //});
+            //3. var result = people.FindAll(p => p.Age >= 18);
+            //var result = people.Select(p => p.Age);
+            //foreach (var person in result)
+            //{
+            //    Console.WriteLine(person);
+            //}
+
+
+
+            //int[] nums = { 1, 2, 3, 4, 6 };
+
+            //List<int> list = new List<int>(nums);
+            //list.Add(123);
+            //list.Add(12);
+            //list.Add(99);
+            //list.Add(127);
+            //list.Add(12);
+            ////list.FindAll(num => true);
+            //foreach (var item in list)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            //Console.WriteLine("----------------");
+            //Console.WriteLine(list.RemoveAll(num => num > 12));
+            //Console.WriteLine("----------------");
+            //foreach (var item in list)
+            //{
+            //    Console.WriteLine(item);
+            //}
             //Console.WriteLine(list.FirstOrDefault(x=> x == 21));
 
 
