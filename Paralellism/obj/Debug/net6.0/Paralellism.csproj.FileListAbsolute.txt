@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Paralellism\bin\Debug\net6.0\Paralellism.exe
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Paralellism\bin\Debug\net6.0\Paralellism.deps.json
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Paralellism\bin\Debug\net6.0\Paralellism.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Paralellism\bin\Debug\net6.0\Paralellism.dll
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Paralellism\bin\Debug\net6.0\Paralellism.pdb
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Paralellism\obj\Debug\net6.0\Paralellism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Paralellism\obj\Debug\net6.0\Paralellism.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Paralellism\obj\Debug\net6.0\Paralellism.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Paralellism\obj\Debug\net6.0\Paralellism.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Paralellism\obj\Debug\net6.0\Paralellism.dll
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Paralellism\obj\Debug\net6.0\refint\Paralellism.dll
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Paralellism\obj\Debug\net6.0\Paralellism.pdb
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Paralellism\obj\Debug\net6.0\Paralellism.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\Paralellism\obj\Debug\net6.0\ref\Paralellism.dll
