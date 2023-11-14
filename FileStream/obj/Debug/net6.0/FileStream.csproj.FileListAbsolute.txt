@@ -1,0 +1,17 @@
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\bin\Debug\net6.0\FileStream.exe
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\bin\Debug\net6.0\FileStream.deps.json
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\bin\Debug\net6.0\FileStream.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\bin\Debug\net6.0\FileStream.dll
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\bin\Debug\net6.0\FileStream.pdb
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\obj\Debug\net6.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\obj\Debug\net6.0\FileStream.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\obj\Debug\net6.0\FileStream.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\obj\Debug\net6.0\FileStream.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\obj\Debug\net6.0\FileStream.dll
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\obj\Debug\net6.0\refint\FileStream.dll
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\obj\Debug\net6.0\FileStream.pdb
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\obj\Debug\net6.0\FileStream.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\obj\Debug\net6.0\ref\FileStream.dll
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\obj\Debug\net6.0\FileStream.csproj.AssemblyReference.cache
+C:\Users\Birinci novbe\Desktop\AzMB101CSharp\FileStream\obj\Debug\net6.0\FileStream.csproj.CopyComplete

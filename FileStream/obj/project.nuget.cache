@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "11yro2VwcTDArsoH1S7NompEHcqgoJHb/3gtY6OQS94/lYGRk3om/BFNF6R4TDpATtytE+MOHllNVTPwryOFCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\FileStream\\FileStream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Birinci novbe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
