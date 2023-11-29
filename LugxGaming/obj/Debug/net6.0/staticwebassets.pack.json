@@ -1,0 +1,229 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\css\\templatemo-lugx-gaming.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-lugx-gaming.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\banner-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\caption-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\caption-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\categories-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\categories-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\categories-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\categories-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\categories-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cta-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\featured-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\featured-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\featured-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-03.png"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\featured-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-04.png"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\page-heading-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\page-heading-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\single-game.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-game.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\top-game-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\top-game-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\top-game-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\top-game-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\top-game-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\top-game-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\trending-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\trending-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\trending-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\trending-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\trending-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\trending-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\images\\trending-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\trending-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\js\\counter.js",
+      "PackagePath": "staticwebassets\\assets\\js\\counter.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\LugxGaming\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LugxGaming.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LugxGaming.props",
+      "PackagePath": "build\\LugxGaming.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LugxGaming.props",
+      "PackagePath": "buildMultiTargeting\\LugxGaming.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LugxGaming.props",
+      "PackagePath": "buildTransitive\\LugxGaming.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
