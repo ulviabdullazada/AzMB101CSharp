@@ -9,61 +9,89 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = seo_agency
 build_property.RootNamespace = seo_agency
-build_property.ProjectDir = C:\Users\Birinci novbe\Desktop\seo-agency\
+build_property.ProjectDir = C:\Users\Birinci novbe\Desktop\AzMB101CSharp\seo-agency\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Birinci novbe\Desktop\seo-agency
+build_property.MSBuildProjectDirectory = C:\Users\Birinci novbe\Desktop\AzMB101CSharp\seo-agency
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Birinci novbe/Desktop/seo-agency/Areas/Admin/Views/Service/Create.cshtml]
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Areas/Admin/Views/Service/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci novbe/Desktop/seo-agency/Areas/Admin/Views/Service/Index.cshtml]
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Areas/Admin/Views/Service/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci novbe/Desktop/seo-agency/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci novbe/Desktop/seo-agency/Areas/Admin/Views/Slider/Create.cshtml]
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Areas/Admin/Views/Slider/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci novbe/Desktop/seo-agency/Areas/Admin/Views/Slider/Index.cshtml]
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Areas/Admin/Views/Slider/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci novbe/Desktop/seo-agency/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci novbe/Desktop/seo-agency/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci novbe/Desktop/seo-agency/Views/Home/Index.cshtml]
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci novbe/Desktop/seo-agency/Views/Shared/Error.cshtml]
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci novbe/Desktop/seo-agency/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci novbe/Desktop/seo-agency/Views/_ViewImports.cshtml]
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Views/Sliders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Views/Sliders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Views/Sliders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Views/Sliders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Views/Sliders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci novbe/Desktop/seo-agency/Views/_ViewStart.cshtml]
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Birinci novbe/Desktop/seo-agency/Views/Shared/_Layout.cshtml]
+[C:/Users/Birinci novbe/Desktop/AzMB101CSharp/seo-agency/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lzyiffr4uy

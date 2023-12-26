@@ -1,5 +1,8 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+
 using seo_agency.Contexts;
+using seo_agency.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +12,22 @@ builder.Services.AddDbContext<SeoDbContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSql"));
 });
+
+builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
+{
+    options.Password.RequireDigit = true;
+    options.Password.RequireLowercase = true;
+    options.Password.RequireNonAlphanumeric = false;
+    options.Password.RequireUppercase = true;
+    options.Password.RequiredLength = 6;
+    options.Lockout.MaxFailedAccessAttempts = 4;
+
+    // User settings.
+    options.User.AllowedUserNameCharacters =
+    "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+    options.User.RequireUniqueEmail = false;
+
+}).AddDefaultTokenProviders().AddEntityFrameworkStores<SeoDbContext>();
 
 builder.Services.AddControllersWithViews();
 
@@ -26,7 +45,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(
@@ -37,5 +56,7 @@ app.MapControllerRoute(
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+
 
 app.Run();
