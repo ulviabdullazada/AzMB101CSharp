@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\seo-agency.props" />
+</Project>

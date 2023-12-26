@@ -1,0 +1,14 @@
+﻿@model ServiceCreateVM
+@{
+    ViewData["Title"] = "Create";
+}
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input class="form-control" asp-for="Name">
+        <span asp-validation-for="Name" class="form-text text-muted"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+

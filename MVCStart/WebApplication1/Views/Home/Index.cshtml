@@ -1,0 +1,31 @@
+﻿@using WebApplication1.Models;
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <ul>
+        @* @foreach (var item in ViewBag.Artists as List<Artist>)
+        {
+            <li>@item.Id @item.Name @item.Surname</li>
+        } *@
+        @* @foreach (var item in ViewData["Artists"] as List<Artist>) *@
+        @try
+        {
+            foreach (var item in (List<Artist>)ViewData["Artists"])
+            {
+                <li>@item.Id @Html.Raw(item.Name) @item.Surname</li>
+            }
+        }
+        catch (Exception)
+        {
+            
+            <p>Alinmadi!!</p>
+        }
+        
+    </ul>
+</body>
+</html>

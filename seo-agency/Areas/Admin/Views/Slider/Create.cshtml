@@ -1,0 +1,27 @@
+﻿@model SliderCreateVM
+@{
+    ViewData["Title"] = "Create";
+}
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="ImageFile"></label>
+        <input class="form-control" asp-for="ImageFile">
+        <span asp-validation-for="ImageFile" class="form-text text-muted"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Client"></label>
+        <input class="form-control" asp-for="Client">
+        <span asp-validation-for="Client" class="form-text text-muted"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Date"></label>
+        <input class="form-control" type="date" asp-for="Date">
+        <span asp-validation-for="Date" class="form-text text-muted"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ServiceId">Service</label>
+        <select asp-for="ServiceId" asp-items="@ViewBag.Services"></select>
+        <span asp-validation-for="ServiceId" class="form-text text-muted"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

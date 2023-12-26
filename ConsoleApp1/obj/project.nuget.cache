@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7MZznbhSg771O4NANsJp9iq1aEazE0sTSUjTsn+fwku9iV8i/bltWXj6bpdx7egcl6C8ZH06ROF4LKomeS+UZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Birinci novbe\\Desktop\\AzMB101CSharp\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Birinci novbe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

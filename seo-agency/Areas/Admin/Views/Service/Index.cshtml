@@ -1,0 +1,30 @@
+﻿@model IEnumerable<ServiceListItemVM>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Count() == 0)
+        {
+            <tr>
+                <th colspan="2" scope="row">No data</th>
+            </tr>
+        }
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
